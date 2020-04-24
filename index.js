@@ -32,4 +32,7 @@ var funkyFunction = function() {
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
 // NOTE: you only need to modify the code below this line.
 var lilFunk = funkyFunction()
+//Declared a variable called "lilFunk" and assigned it the value of the invocation of funkyFuction which returns a declaration
+//of an anonymous function which returns the string "FUNKY!".
 var theFunk = lilFunk()
+//Rewrote last line and declared the variable theFunk to equal the invocation of lilFunk.
